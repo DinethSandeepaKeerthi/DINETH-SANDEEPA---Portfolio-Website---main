@@ -15,8 +15,8 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://github.com/DinethSandeepaKeerthi/DINETH-SANDEEPA---Portfolio-Website---main/blob/main/assets/WEB%2001.png)
+![mockup720](https://github.com/DinethSandeepaKeerthi/DINETH-SANDEEPA---Portfolio-Website---main/blob/main/assets/WEB%2001.png)
+![ss](https://github.com/DinethSandeepaKeerthi/DINETH-SANDEEPA---Portfolio-Website---main/blob/main/assets/WEB%2002.png)
 
 
 <h2>📬 Contact</h2>

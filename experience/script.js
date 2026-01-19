@@ -24,7 +24,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "images/favicon.png");
         }
         else {
-            document.title = "Projects";
+            document.title = "Experience";
             $("#favicon").attr("href", "images/favhand.png");
         }
     });

@@ -25,7 +25,7 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Projects";
-            $("#favicon").attr("href", "images/favhand.png");
+            $("#favicon").attr("href", "images/favhan.png");
         }
     });
 
